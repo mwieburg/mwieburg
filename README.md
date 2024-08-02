@@ -1,11 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Micah Wieburg 👋
 
+Welcome to my Github personal profile page
+
+- PhD student pursuing doctorate degree in Information Technology - Cyber Engineering
+- Current Research: Key factors of a verified phishing URL to improve user training against social engineering attacks
+- 🔭 Currently working on Cybersecurity Projects, Pentesting simulations, Python, Powershell, Bash, and GO scripting
+- 📖 Currently learning: Red Team tools (Burpe Suite, Nessus, Metasploit) and Blue Team tools (Security Onion, Snort, Malware Analysis)
+##
 <!--
 **mwieburg/mwieburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
