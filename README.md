@@ -6,9 +6,7 @@ Welcome to my page!
 <a href="mailto:mwieburg@gmail.com"><img src="https://camo.githubusercontent.com/8e32e6b28cecf19c9086eb4b57bd2186beec1dd809ec942ee69ba0d07acbd247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474d41494c2d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" alt="Gmail"></a>
 ## 
 - 🔭 Currently working on Cybersecurity Projects, Pentesting simulations, Python, Powershell, Bash, and GO scripting
-- 📖 Currently learning: Red Team tools (Burpe Suite, Nessus, Metasploit) and Blue Team tools (Security Onion, Snort, Malware Analysis)
-- 👨‍🎓 PhD student pursuing doctorate degree in Information Technology - Cyber Engineering
-- 🏫 Current Research: Key factors of a verified phishing URL to improve user training against social engineering attacks
+- 📖 Currently studying: CPTS (Hack The Box), CPENT (EC-Council)
 ## Languages
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/Powershell-purple?style=flat&logo=powershell&logoColor=yellow)
